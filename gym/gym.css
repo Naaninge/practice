@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.images{
+    height: 600px;
+    object-fit: cover;
+}
+
+.box-one{
+    background-color: rgb(230, 230, 230);
+  
+}
+.box-two{
+    background-color: rgb(168, 164, 164);
+}
+
+.box-three{
+    background-color: rgb(97, 96, 96);
+    color: white;
+}
+.box-four{
+    background-color: rgb(12, 12, 12);
+    color: white;
+   
+}
+.section-one{
+    margin-top: 30px;
+}
+
+.section-two{
+    margin-top: 30px;
+}
+
+.section-two h2{
+   text-decoration: underline;
+   text-decoration-color: gray;
+}
+.section-four h2{
+    text-decoration: underline;
+    text-decoration-color: gray;
+}
+.section-five{
+    padding: 100px;
+    background-color: rgb(245, 245, 245);
+    color: black;
+    margin-top: 5px;
+    text-align: center;
+}
+.contact h2{
+    text-decoration: underline;
+    text-decoration-color: gray;
+}
+.title{
+    padding: 40px;
+    background-color: rgb(12, 12, 12);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.price-card:hover{
+    box-shadow: 5px 5px 5px 5px rgb(12, 12, 12,0.6);
+}
+
+.send-button{
+    width: 100%;
+}
+.contact h2{
+    text-align: center;
+    padding-top: 60px;
+  
+}
+.section-two h2{
+text-align: center;
+
+}
+.section-four h2{
+    text-align: center;
+    padding-top: 60px;
+   
+}
+.section-three h2{
+    text-align: center;
+    padding-top: 60px;
+  
+}
+.section-one h1{
+    padding-bottom: 30px;
+    
+}
+.row-section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.green{
+    border-radius: 0;
+    margin:0 auto;
+}
+.footer{
+    padding:30px;
+    background-color: rgb(238, 238, 237);
+
+}
+.card-row{
+    padding-top: 20px;
+}
+.item{
+
+    padding: 5px;
+    width:400px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.item:hover{
+    background-color: rgb(194, 191, 191);
+    padding: 5px;
+   
+}
+.card-row{
+    margin: 10px;
+}
+span{
+    font-weight: bold;
+}
+.price{
+    font-size: 30px;
+}
+.price p{
+    font-size: 15px;
+}
+.contact-btn{
+    width:100%;
+}
+
+.fa-facebook {
+   
+    background: black;
+    color: white;
+  }
+  .arrow{
+      color: white;
+      background-color: black;
+      padding: 10px;
+     
+  }
+  .arrow:hover{
+      background-color: gray;
+  }
+  .section-five h6{
+    
+margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .top{
+    margin-bottom: 20px;
+      padding: 10px;
+  }
