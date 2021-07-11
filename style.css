@@ -19,21 +19,7 @@ body{
     font-size: 3vw; 
     font-weight: bold;
 }
-/*.text {
-    background-color: white;
-    color: black;
-    font-size: 3vw;  Responsive font size 
-    font-weight: bold;
-    margin: 0 auto;  Center the text container 
-    padding: 10px;
-    width: 50%;
-    text-align: center;  Center text 
-    position: absolute; /* Position text 
-    top: 50%; /* Position text in the middle 
-    left: 50%; /* Position text in the middle 
-    transform: translate(-50%, -50%); /* Position text in the middle 
-    mix-blend-mode: screen; /* This makes the cutout text possible 
-  }*/
+
   .text {
     background-color: rgb(23, 24, 23,0.7);
     color: white;
@@ -155,9 +141,5 @@ font-size: small;
 .maingym a{
     text-decoration: none;
 }
-/*.ntext{
-    position:absolute;
-    bottom: 1px;
-    right: 1px;
-}*/
+
    
